@@ -1,2 +1,2 @@
 # management-list
-管理票を自動生成するVBAプログラムを含むEXCELファイルです。
+管理表を自動生成するVBAプログラムを含むEXCELファイルです。
